@@ -7,21 +7,17 @@
 - Google Cloud Translation API 　 → 翻訳で使用
 - Google Calendar API（OAuth 2.0）→ カレンダー登録で使用
 
-### 初期表示画面
+1. 初期表示画面
+2. 今日の一言を入力
+3. 翻訳ボタンを押すと翻訳
+<p align="center">
+  <img src="screenshots/1.jpg" width="30%" />
+  <img src="screenshots/2.jpg" width="30%" />
+  <img src="screenshots/3.jpg" width="30%" />
+</p>
 
-![画面イメージ](screenshots/1.jpg)
-
-### 今日の一言を入力
-
-![画面イメージ](screenshots/2.jpg)
-
-### 翻訳ボタンを押すと翻訳。
-
-![画面イメージ](screenshots/3.jpg)
-
-### 併せて Google カレンダー側へ登録
-
-![画面イメージ](screenshots/4.png)
+4. 併せて Google カレンダー側へ登録
+   ![画面イメージ](screenshots/4.png)
 
 ## 2.工夫した点・こだわった点
 
