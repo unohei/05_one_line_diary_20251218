@@ -17,7 +17,7 @@
 
 ### 併せて Google カレンダー側へ登録
 
-![画面イメージ](screenshots/4.png)
+![画面イメージ](screenshots/4-1.png)
 
 ## 2.工夫した点・こだわった点
 
