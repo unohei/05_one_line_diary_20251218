@@ -1,0 +1,27 @@
+{
+  "name": "05_one_line_diary_20251218",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unohei/05_one_line_diary_20251218.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/unohei/05_one_line_diary_20251218/issues"
+  },
+  "homepage": "https://github.com/unohei/05_one_line_diary_20251218#readme",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "googleapis": "^168.0.0"
+  }
+}
